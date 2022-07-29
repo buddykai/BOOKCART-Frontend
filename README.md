@@ -1,4 +1,4 @@
-## [BookCart-frontend](https://github.com/mohit355/BookCart-frontend)
+## [BookCart-frontend](https://github.com/buddykai/BOOKCART-Frontend)
 This repo contains only frontend part of BookCart.
 
 
